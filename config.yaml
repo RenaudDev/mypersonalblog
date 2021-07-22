@@ -16,7 +16,7 @@ menu:
     weight: 0
 
 params:
-  author: "John Doe"
+  author: "Renaud Gagné"
   email: mail@example.org # used for microformats
   avatar: "/images/me.png" # used for microformats
   description: ""
@@ -29,7 +29,7 @@ params:
   #   - js/main.js # relative path to "assets" directory
   dateFormat: "2006-01-02"
   paginationSinglePost: true
-  style: light-without-switcher
+  style: dark-with-switcher
   readMore: false
   disableSummary: false
   # utteranc.es support
