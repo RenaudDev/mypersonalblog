@@ -22,7 +22,7 @@ Task management isn't an option if you are a knowledge worker; it's a must. With
 
 ## What you need to know about task management
 
-First and foremost, you will have to choose a tool to work with. As I suggest for most people to get [Hubspot](/why-hubspot/) for their CRM, I suggest [Todoist](https://www.todoist.com/) for task management. The reason is that they have the fastest way to capture on all device. I can capture in one-click all tasks in my email inbox; I can press a keyboard shortcut to have a window popup on my computer, and on my phone, they have a one-click "quick task" widget.
+First and foremost, you will have to choose a tool to work with. As I suggest for most people to get [Hubspot](/p/why-hubspot/) for their CRM, I suggest [Todoist](https://www.todoist.com/) for task management. The reason is that they have the fastest way to capture on all device. I can capture in one-click all tasks in my email inbox; I can press a keyboard shortcut to have a window popup on my computer, and on my phone, they have a one-click "quick task" widget.
 
 They also integrate with so many other tools that make it easy to create automation where I need them.
 
@@ -46,7 +46,7 @@ Too many people are overwhelmed by everything they have to do in life. They have
 
 ### Learn to be literate with your tool
 
-Whatever app or tool you use for your task management, you must dedicate some time to mastering it. The process is called [becoming digitally literate](/digital-literacy/). Learning your tool will increase your productivity and also help you make the tool an extension of yourself. 
+Whatever app or tool you use for your task management, you must dedicate some time to mastering it. The process is called [becoming digitally literate](/p/digital-literacy/). Learning your tool will increase your productivity and also help you make the tool an extension of yourself. 
 
 Take some time to read blogs, create habits and workflow that work with you and finally learn some keyboard shortcuts to make your life easier. 
 
